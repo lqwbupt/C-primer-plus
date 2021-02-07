@@ -17,7 +17,7 @@
 				<Item Name="SocketQueue.vi" Type="VI" URL="../Initialize/CreateQueue/SocketQueue.vi"/>
 			</Item>
 			<Item Name="AD.ctl" Type="VI" URL="../Initialize/Setting/AD.ctl"/>
-			<Item Name="ADSetting.ctl" Type="VI" URL="../Initialize/ADSetting.ctl"/>
+			<Item Name="ADSetting.ctl" Type="VI" URL="../../MyPmcontrol - 副本/ADSetting.ctl"/>
 			<Item Name="DA.ctl" Type="VI" URL="../Initialize/Setting/DA.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../Support/Data.ctl"/>
 			<Item Name="prodatascan.ctl" Type="VI" URL="../ProData/prodatascan.ctl"/>
